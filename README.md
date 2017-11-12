@@ -8,7 +8,7 @@ An example app created for my blog post [Swift Closure: demystifying @escaping a
 
 ### Description
 
-The app contains and example of how much powerful are  `@autoclosure` and `@escaping`  closure attributes. The app let you select dinamically the action to be executed when a table view cell is selected.
+The app contains an example of how much powerful are  `@autoclosure` and `@escaping`  closure attributes. The app let you select dinamically the action to be executed when a table view cell is selected.
 Below an article quote:
 
 > In this post I will show you two interesting closure features: `@autoclosure` and `@escaping`.
