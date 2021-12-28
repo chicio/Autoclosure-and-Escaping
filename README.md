@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/chicio/Autoclosure-and-Escaping/master/LICENSE.md)
 [![Supported platform](https://img.shields.io/badge/platforms-iOS-orange.svg)](https://img.shields.io/badge/platforms-iOS-orange.svg)
 
-An example app created for my blog post [Swift Closure: demystifying @escaping and @autoclosure attributes](https://www.fabrizioduroni.it/2017/06/14/swift-closure-demystifying-autoclosure-escaping.html "Swift Closure: demystifying @escaping and @autoclosure attributes").
+An example app created for my blog post [Swift Closure: demystifying @escaping and @autoclosure attributes](https://www.fabrizioduroni.it/2017/06/14/swift-closure-demystifying-autoclosure-escaping/ "Swift Closure: demystifying @escaping and @autoclosure attributes").
 
 ### Description
 
